@@ -1,4 +1,4 @@
-Valor da Construção - Webservice
+SCOM - Webservice
 ================================
 
 Para realizar a integração foi criado um webservice onde será feito o post do arquivo CSV com as informações dos produtos.
